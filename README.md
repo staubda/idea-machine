@@ -13,7 +13,7 @@ Consider the human species as a single entity with the following characteristics
  Question:
  - Does an entity as described above naturally trend towards a state of higher information density, e.g. a group of humans -> AI?
 
-TODO
+Answer:
 - Call out assumptions in the premise.
 - Generate hypotheses based on statistics, information theory, neuroscience, evolutionary biology, economics, and other theories of complex systems.
   - How can hypotheses be tested?
