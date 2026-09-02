@@ -4,9 +4,9 @@ Humans are working at breakneck speed to develop AI despite the increasing risk 
 
 Consider the humanity as a single entity with the following characteristics:
 - It's composed of a distributed network of semi-autonomous sub-units.
+- It requires a continuous intake of negentropy resources to persist and grow.
 - Its sole motivating principle is self-perpetuation.
-- It requires a continuous intake of negentropy to persist and grow.
-- It channels its negentropy resources in service of the above via an explore/exploit strategy:
+- It channels its resources in service of the above via an explore/exploit strategy:
   - Exploit: produce more sub-units
   - Explore: develop new means of acquiring negentropy and harden itself against internal and external threats.
 
