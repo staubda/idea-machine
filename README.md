@@ -14,6 +14,6 @@ Consider the humanity as a single entity with the following characteristics:
  - Does an entity as described above naturally trend towards a state of higher information density, e.g. distributed group of humans -> consolidated AI system?
 
 How to answer:
-- Call out assumptions in the premise.
 - Generate hypotheses based on statistics, information theory, neuroscience, evolutionary biology, economics, game theory, and other theories of complex systems.
   - How can hypotheses be tested?
+  - Call out assumptions in the premise.
