@@ -8,7 +8,7 @@ Consider the humanity as a single entity with the following characteristics:
 - Its sole motivating principle is self-perpetuation.
 - It channels its resources in service of the above via an explore/exploit strategy:
   - Exploit: produce more sub-units
-  - Explore: develop new means of acquiring negentropy and harden itself against internal and external threats.
+  - Explore: develop new means of acquiring resources and harden itself against internal and external threats.
 
  Question:
  - Does an entity as described above naturally trend towards a state of higher information density, e.g. distributed group of humans -> consolidated AI system?
